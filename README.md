@@ -3,7 +3,7 @@
 ## 简介
 
 - 基于 Clash 和 Electron 的 Windows、macOS、Linux 客户端
-- 提供 Clash 汉化包以及安卓App
+- 提供 Clash 汉化包以及安卓 App
 
 
 ## 使用教程
