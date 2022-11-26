@@ -18,7 +18,6 @@ https://docs.cfw.lbyczf.com/contents/quickstart.html
 | [NETV2](https://acc.netv2.top/#/register?code=E23U1tnP)     |                    |
 | [OK加速](http://o.okjiasu.com/auth/register?code=T7uw)      | 8.8折优惠码：clash |
 | [Cherry VPN](https://cherryvpn.net/auth/register?code=ZxMD) | 8折优惠码：clash   |
-| [ChinaG](https://b.luxury/waf/8YN6cZ5fjVypq1mV2)            |                    |
 
 
 ## 下载链接
