@@ -13,11 +13,12 @@ https://docs.cfw.lbyczf.com/contents/quickstart.html
 
 ## 订阅推荐
 
-| 链接                                                        | 优惠码             |
-| ----------------------------------------------------------- | ------------------ |
-| [NETV2](https://acc.netv2.top/#/register?code=E23U1tnP)     |                    |
-| [OK加速](https://o.okjiasu.com/auth/register?code=T7uw)      | 8.8折优惠码：clash |
-| [Cherry VPN](https://chyvpn.cyou/auth/register?code=ZxMD) | 8折优惠码：clash   |
+| 链接                                                         | 优惠码                       |
+| ------------------------------------------------------------ | ---------------------------- |
+| [NETV2](https://add.netv2.top/#/register?code=E23U1tnP)      | 注册后可以向客服要专用优惠码 |
+| [逐日](https://zhuri.cc/auth/register?code=T7uw)             | 8.8折优惠码：clash           |
+| [Cherry VPN](https://chyvpn.cyou/auth/register?code=ZxMD)    | 8折优惠码：clash             |
+| [一元机场](https://xn--4gq62f52gdss.com/#/register?code=9qG6CM8H) |                              |
 
 
 ## 下载链接
