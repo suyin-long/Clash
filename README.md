@@ -10,10 +10,10 @@
 
 | 链接                                                         | 优惠码                       |
 | ------------------------------------------------------------ | ---------------------------- |
-| [NETV2](https://abb.netv2.top/#/register?code=E23U1tnP)      | 注册后可以向客服要专用优惠码 |
-| [逐日](https://apple-a.zhuri.link/auth/register?code=URaf)   | 8.8折优惠码：clash           |
-| [Cherry VPN](https://go.chynet.net/auth/register?code=ZxMD)  | 8折优惠码：clash             |
-| [一元机场](https://xn--4gq62f52gdss.ink/#/register?code=9qG6CM8H) |                              |
+| [NETV2](https://user.netv2.cc/#/register?code=mcvuIbh2)      | 向客服索要 |
+| [逐日](https://ca.zhuri.link/auth/register?code=URaf)   | 向客服索要      |
+| [Cherry VPN](https://go.chynet.net/auth/register?code=ZxMD)  | 向客服索要 |
+| [一元机场](https://xn--4gq62f52gdss.ink/#/register?code=9qG6CM8H) |向客服索要|
 
 
 ## 下载链接
@@ -29,8 +29,8 @@
 
 ## 参考链接
 
-- [Clash for Windows](https://github.com/Fndroid/clash_for_windows_pkg)：基于 Clash 和 Electron 的 Windows、macOS、Linux 图形客户端
-- [Clash_Chinese_Patch](https://github.com/BoyceLig/Clash_Chinese_Patch)：Clash for Windows 的汉化包
+- ~~ [Clash for Windows](https://github.com/Fndroid/clash_for_windows_pkg)：基于 Clash 和 Electron 的 Windows、macOS、Linux 图形客户端 ~~
+- ~~ [Clash_Chinese_Patch](https://github.com/BoyceLig/Clash_Chinese_Patch)：Clash for Windows 的汉化包 ~~
 - [Clash-for-Windows_Chinese](https://github.com/ender-zhao/Clash-for-Windows_Chinese)：提供 clash for windows 的汉化版、汉化补丁以及汉化版 Clash 安装程序
-- [ClashForAndroid](https://github.com/Kr328/ClashForAndroid)：Clash 的 Android 图形客户端
-- [ClashX](https://github.com/yichengchen/clashX)：Clash 的 Mac 图形客户端
+- ~~ [ClashForAndroid](https://github.com/Kr328/ClashForAndroid)：Clash 的 Android 图形客户端 ~~
+- ~~ [ClashX](https://github.com/yichengchen/clashX)：Clash 的 Mac 图形客户端 ~~
