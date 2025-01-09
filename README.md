@@ -29,8 +29,9 @@
 
 ## 参考链接
 
-- ~~ [Clash for Windows](https://github.com/Fndroid/clash_for_windows_pkg)：基于 Clash 和 Electron 的 Windows、macOS、Linux 图形客户端 ~~
-- ~~ [Clash_Chinese_Patch](https://github.com/BoyceLig/Clash_Chinese_Patch)：Clash for Windows 的汉化包 ~~
+- <del> [Clash for Windows](https://github.com/Fndroid/clash_for_windows_pkg)：基于 Clash 和 Electron 的 Windows、macOS、Linux 图形客户端 </del>
+- <del> [Clash_Chinese_Patch](https://github.com/BoyceLig/Clash_Chinese_Patch)：Clash for Windows 的汉化包 </del> 
 - [Clash-for-Windows_Chinese](https://github.com/ender-zhao/Clash-for-Windows_Chinese)：提供 clash for windows 的汉化版、汉化补丁以及汉化版 Clash 安装程序
-- ~~ [ClashForAndroid](https://github.com/Kr328/ClashForAndroid)：Clash 的 Android 图形客户端 ~~
-- ~~ [ClashX](https://github.com/yichengchen/clashX)：Clash 的 Mac 图形客户端 ~~
+- <del> [ClashForAndroid](https://github.com/Kr328/ClashForAndroid)：Clash 的 Android 图形客户端 </del>
+- <del> [ClashX](https://github.com/yichengchen/clashX)：Clash 的 Mac 图形客户端 </del>
+
