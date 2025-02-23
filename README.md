@@ -10,7 +10,7 @@
 
 | 链接                                                         | 优惠码                       |
 | ------------------------------------------------------------ | ---------------------------- |
-| [NETV2](https://user.netv2.cc/#/register?code=mcvuIbh2)      | 向客服索要 |
+| [NETV2](https://netv2.netlify.app/#/register?code=mcvuIbh2)      | 向客服索要 |
 | [逐日](https://ca.zhuri.link/auth/register?code=URaf)   | 向客服索要      |
 | [Cherry VPN](https://go.chynet.net/auth/register?code=ZxMD)  | 向客服索要 |
 | [一元机场](https://xn--4gq62f52gdss.ink/#/register?code=9qG6CM8H) |向客服索要|
